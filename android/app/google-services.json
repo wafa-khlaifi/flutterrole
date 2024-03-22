@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601776580207",
+    "project_id": "flutterrole",
+    "storage_bucket": "flutterrole.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601776580207:android:26f69ef20ee66266b10f9a",
+        "android_client_info": {
+          "package_name": "com.example.flutterrole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5RW9ED5UjMZhN4x8Gmn3YcQX4Mq_7sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
